@@ -1,0 +1,16 @@
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\bin\Debug\net10.0\BankingApp2.exe
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\bin\Debug\net10.0\BankingApp2.deps.json
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\bin\Debug\net10.0\BankingApp2.runtimeconfig.json
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\bin\Debug\net10.0\BankingApp2.dll
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\bin\Debug\net10.0\BankingApp2.pdb
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.AssemblyInfoInputs.cache
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.AssemblyInfo.cs
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.csproj.CoreCompileInputs.cache
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.sourcelink.json
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.dll
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\refint\BankingApp2.dll
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.pdb
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingApp2.genruntimeconfig.cache
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\ref\BankingApp2.dll
+C:\Users\Guest User\Documents\banking-console-app\BankingApp2\obj\Debug\net10.0\BankingA.BBA611EC.Up2Date
